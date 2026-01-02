@@ -8,7 +8,7 @@
 
 
 ## A collection of the SUPEROVERRIDE minigames.
-All working on every windows pc only using batch (Windows cmd).
+#### With minigames as 2 player tic tac toe, guess the number, and DEEP SEA SONAR. All working on every Windows PC only using batch (Windows cmd) without installing anything.
 
 ## La Colecion de los SUPEROVERRIDE minijuegos.
-Todos funcionando en cualquier pc windows solo usando batch (Windows cmd).
+#### Con minijuegos como tres en raya, adivinar el numero y DEEP SEA SONAR (Submarino). Funcionando todos en cualquier PC Windows solo usando batch (Windows cmd) sin instalar nada.
