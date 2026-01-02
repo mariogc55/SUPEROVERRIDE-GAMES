@@ -12,3 +12,11 @@
 
 ## La Colecion de los SUPEROVERRIDE minijuegos.
 #### Con minijuegos como tres en raya, adivinar el numero y DEEP SEA SONAR (Submarino). Funcionando todos en cualquier PC Windows solo usando batch (Windows cmd) sin instalar nada.
+
+
+
+## How to play/use the program?
+#### Just download the batch file from github and double-click on its icon (if you computer asks for permision its normal for batch file).
+
+## Como jugar/usar el programa?
+#### Descarga el archivo batch de github y has doble-click en su icono (si tu computador pide permisos es normal por ser archivo batch).
